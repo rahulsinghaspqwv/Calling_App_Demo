@@ -10,3 +10,8 @@ This is the Demo Calling app which is designed into Android studio. This is simp
 
 - working in Future on this project 
 - For Now it's normal understandable Telephone project for Beginners. 
+
+# Adding Screenshot
+- Adding some screenshot of testing on physical android device or AVDS. 
+![Screenshot](https://github.com/rahulsinghaspqwv/Calling_App_Demo/blob/main/Screenshot%202025-07-09%20at%209.15.04%20PM.png)
+![Screenshot](https://github.com/rahulsinghaspqwv/Calling_App_Demo/blob/main/Screenshot%202025-07-09%20at%209.15.24%20PM.png)
