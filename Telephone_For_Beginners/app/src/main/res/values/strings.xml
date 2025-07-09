@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Telephone_For_Beginners</string>
+    <string name="enter_a_phone_number">Enter a phone number...</string>
+    <string name="dial">Dial</string>
+    <string name="powered_by">Powered by</string>
+    <string name="github_username">rahulsinghaspqwv</string>
+</resources>
